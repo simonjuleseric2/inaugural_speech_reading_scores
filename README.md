@@ -1,6 +1,8 @@
 # inaugural_speech_reading_scores
 
 
+Grading inaugural speaches of US presidents using the Flesch–Kincaid readability tests.
+
 ## Libraries:
 * nltk
 * regex
@@ -8,4 +10,4 @@
 * matplotlib
 
 
-Grading inaugural speaches of US presidents using the Flesch–Kincaid readability tests
+![](inaugural_scores.png)
